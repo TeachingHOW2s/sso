@@ -1,0 +1,39 @@
+site_name: TeachingHOW2s SSO
+
+copyright: "&copy; Train Visual Ltd"
+
+theme:
+  name: material
+  features:
+    - navigation.expand
+    - navigation.sections
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      primary: 'light-blue'
+      accent: 'blue'
+      scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      primary: 'pink'
+      accent: 'cyan'
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+nav:
+  - Overview: index.md
+  - Configuration: configuration.md
+  - User Provisioning: provisioning.md
+  - Application Tiles: application-tiles.md
+  - Identity Providers:
+    - Azure: providers/azure.md
+    - Google Apps: providers/google.md
+
+markdown_extensions:
+  - footnotes
+  - smarty
+  - attr_list
