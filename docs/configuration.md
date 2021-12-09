@@ -2,8 +2,8 @@
 
 The following details should enable you to configure TeachingHOW2s with any SAML2-compatible identity provider. We also have dedicated guides to configuring TeachingHOW2s with specific identity providers:
 
-- [Azure](/providers/azure)
-- [Google Apps](/providers/google)
+- [Azure](../providers/azure)
+- [Google Apps](../providers/google)
 
 ## Service Provider Settings
 

@@ -1,6 +1,6 @@
 # Overview
 
-![HOW2 Logo](/images/logo-how2.png){ width="150" }
+![HOW2 Logo](images/logo-how2.png){ width="150" }
 
 TeachingHOW2s is a professional development platform for teachers. It offers a variety of collaborative learning features and supports single sign-on (SSO), acting as a SAML2 service provider.
 

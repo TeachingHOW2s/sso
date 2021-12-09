@@ -9,15 +9,15 @@ Tiles should link to your organisation's SSO Launch URL -- that's the one that l
 
 ## Rounded Images
 
-![HOW2 Icon](/images/icon-how2.png){ width="50" }
+![HOW2 Icon](images/icon-how2.png){ width="50" }
 
-![HOW2 Logo](/images/logo-how2.png){ width="150" }
+![HOW2 Logo](images/logo-how2.png){ width="150" }
 
 
 ## Square Images
 
-![HOW2 Icon](/images/icon-how2-square.png){ width="50" }
+![HOW2 Icon](images/icon-how2-square.png){ width="50" }
 
-![HOW2 Logo](/images/logo-how2-square.png){ width="150" }
+![HOW2 Logo](images/logo-how2-square.png){ width="150" }
 
-![HOW2 Logo](/images/logo-how2-rect.png){ width="150" }
+![HOW2 Logo](images/logo-how2-rect.png){ width="150" }
