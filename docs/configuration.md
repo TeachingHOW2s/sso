@@ -19,7 +19,7 @@ Within your identity provider, create a new SAML web app and populate the settin
 
 If you would like to take advantage of Single Logout -- where your users are automatically logged out of the HOW2s when they log out of your identity provider, and vice versa -- you should also populate the Single Logout URL.
 
-The Launch URL is generally not required as part of your app configuration, but we'll use it to test SSO and it will also be suitable for use with [application tiles](/application-tiles) once SSO goes live.
+The Launch URL is generally not required as part of your app configuration, but we'll use it to test SSO and it will also be suitable for use with [application tiles](../application-tiles) once SSO goes live.
 
 ## NameID
 
@@ -36,7 +36,7 @@ There are a couple of reasons for this:
 
 ## Additional Attributes/Fields/Claims
 
-Since user provisioning is [handled separately](/provisioning) we only require a unique NameID. You do not need to configure any further attributes.
+Since user provisioning is [handled separately](../provisioning) we only require a unique NameID. You do not need to configure any further attributes.
 
 ## Assignment
 
