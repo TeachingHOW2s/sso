@@ -10,7 +10,7 @@ This site is intended to act as an SSO integration guide for IT teams in purchas
 
 1. [Contact us](https://teachinghow2s.com/contact) to request SSO activation for your organisation. We'll provide you with SAML credentials to plug in to your identity provider.
 
-2. [Configure](/configuration) your identity provider using the details we've provided.
+2. [Configure](configuration) your identity provider using the details we've provided.
 
 3. Send us corresponding credentials for your configuration.
 
