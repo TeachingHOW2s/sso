@@ -20,7 +20,7 @@
 - Once we've updated your configuration settings on our side you'll be able to test SSO logins via your Launch URL.
 - Once we've confirmed that SSO launch requests are working reliably we'll disable test mode. This is the final stage of the configuration process and will disable password authentication for all of your users.
 
-![HOW2 Icon](../images/azure-config.png)
+![Azure configuration screenshot](../images/azure-config.png)
 
 ## Grant App Access
 
