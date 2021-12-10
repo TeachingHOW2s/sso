@@ -8,7 +8,7 @@ theme:
   features:
     - navigation.expand
     - navigation.sections
-
+  favicon: images/favicon.png
   palette:
     - media: "(prefers-color-scheme: light)"
       primary: 'light-blue'
