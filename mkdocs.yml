@@ -35,6 +35,21 @@ nav:
     - Google Apps: providers/google.md
 
 markdown_extensions:
+  - admonition
+  - attr_list
   - footnotes
   - smarty
-  - attr_list
+
+extra:
+  social:
+    - icon: fontawesome/solid/home
+      link: https://teachinghow2s.com
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/train-visual
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/teachinghow2s
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UCYCt-D1t-YX_bAEPeAUxaBg/videos
+
+extra_css:
+  - assets/custom.css
