@@ -14,7 +14,7 @@
 
 - Browse to Manage → Single sign-on → SAML
 - Populate the configuration settings using the details we've provided. See the screenshot below for reference.
-- Assign `user.mail` as the Name ID. No additional claims are required.
+- Assign `user.mail` as the Name ID. No additional claims are required unless you have opted to use [separate UserPrincipalName and email values](../../configuration#custom-name-iduserprincipalname-support).
 - [Send us](mailto:support@teachinghow2s.com) the app's Login URL, Azure ID Identifier, Logout URL and a copy of your Base64-encoded certificate.
 - If you don't already have HOW2 access, let us know the Azure email address you'll be testing with and we'll create a corresponding HOW2 account for you.
 - Once we've updated your configuration settings on our side you'll be able to test SSO logins via your Launch URL.
