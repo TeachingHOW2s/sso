@@ -42,7 +42,7 @@ markdown_extensions:
 
 extra:
   social:
-    - icon: fontawesome/solid/home
+    - icon: fontawesome/solid/house-chimney
       link: https://teachinghow2s.com
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/train-visual
