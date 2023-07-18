@@ -39,7 +39,7 @@ Organisations with this feature enabled will need to include both SSO ID/UPN and
 
 End users will use `SSO ID/UPN` to log in via your identity provider and any notifications will be sent to `email`. Conversely, it will not be possible to log in with `email`, nor will the app ever send any notifications to `SSO ID/UPN`.
 
-When SSO ID/UPN support is enabled you can optionally choose to include an secondary email claim. When this is present we will automatically correct any out-of-date email values as and when users log in.
+When SSO ID/UPN support is enabled you can optionally choose to include a secondary email claim. When this is present we will automatically correct any out-of-date email values as and when users log in.
 
 ![Azure configuration screenshot](../images/azure-upn-config.png)
 
